@@ -1,6 +1,6 @@
 ![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Rishabh+Chatterjee;+I+am+From+India;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+👋,+I+am+Rishabh+Chatterjee;+I+am+From+India;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 <h2 align="center">A passionate frontend developer from India</h2><br/>
 
 <img align="right" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/><br/><br/>
